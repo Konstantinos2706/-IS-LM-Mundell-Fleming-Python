@@ -29,7 +29,7 @@ The project includes:
 ## Files
 
 - `IS_LM FINAL CODE.ipynb` – Python implementation and analysis
-- `IS_LM BLANCHARD PROJECT-KARAMANIS.pdf` – Final project report
+- `IS_LM BLANCHARD-KARAMANIS .pdf` – Final project report
 
 ## AI Assistance
 
